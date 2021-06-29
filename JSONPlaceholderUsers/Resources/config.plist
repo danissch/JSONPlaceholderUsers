@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL_GET_POST_BYUSER</key>
+	<string>/posts?userId=</string>
+	<key>URL_GET_POSTS</key>
+	<string>/posts</string>
+	<key>URL_GET_USERS</key>
+	<string>/users</string>
+	<key>URL_BASE</key>
+	<string>https://jsonplaceholder.typicode.com</string>
+</dict>
+</plist>
